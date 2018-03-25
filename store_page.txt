@@ -1,4 +1,4 @@
-In this file you don't need translate that start with #.
+In this file you don't need translate the line that start with #.
 
 # Short Description
 『Discouraged Workers』 is an independent progressive kinetic novel created by YGGDRASIL STUDIO. The episode is the fifth in the Project DW series, a satirical story based on the popular Korean soap operas-styled plot. It compares Ga-yeon’s bleak everyday life to the dark side of youth.
