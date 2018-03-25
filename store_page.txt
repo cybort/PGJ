@@ -1,0 +1,32 @@
+In this file you don't need translate that start with #.
+
+# Short Description
+『Discouraged Workers』 is an independent progressive kinetic novel created by YGGDRASIL STUDIO. The episode is the fifth in the Project DW series, a satirical story based on the popular Korean soap operas-styled plot. It compares Ga-yeon’s bleak everyday life to the dark side of youth.
+
+Overview
+# 1st Concept 'Prologue' will be here. So you don't need to translate this section.
+
+Description
+The basic mechanism is based on a Kinetic Novel.
+The episode is adult content. The program contains Violence, Blood, Strong Sexual Content, Nudity, Strong Language, Use of Tobacco, Alcohol Reference. Not recommended for Children, Seniors or Pregnant, Feeble-Minded Person.
+You will be moved on mostly through Ga-yeon’s point of view and the Archives will be also helpful for you to understand the whole story.
+Basically you don’t need to be directly involved – just watch, read, listen, and feel it.
+However sometimes, you may be required to do something to collect some records or scenes.
+Discouraged Workers is played automatically. You can toggle this function.
+# For TEEN version
+This is a TEEN version of the Discouraged Workers, takes the form of kinetic novel(visual novel similar).
+
+Features
+A Korean-based densely-plotted story with the gloomy theme.
+The short but intense 120+ minutes, with the real soap opera-like directing.
+The animation-style hand-drawn sprites & CGs, and backgrounds based on retouched real pictures.
+Archives contains 90+ records(Characters and Concept, Diary, Gallery, Music, and Replay).
+30+ Steam Achievements, full Steam Trading Cards series, Steam Workshop, cross-platform auto-cloud sync with Steam Cloud.
+Full Controller Support, Steam Controller support.
+Blind-friendly support.
+# For TEEN version
+Integrated with Game Jolt API.
+Contains soundtrack for the Steam Music Player, Android build.
+
+# Legal notice
+Discouraged Workers © YGGDRASIL STUDIO Co, Pte. All Rights Reserved. All literary works/trademarks are property of their respective owners. Do not distribute our program or any alterations of our program files.
